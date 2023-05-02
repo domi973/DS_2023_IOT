@@ -8,6 +8,10 @@
     { "voie_gauche": "OK", "longeur_vehicule_gauche_m": 0 },
     { "voie_droite": "NOK", "longeur_vehicule_droite_m": 40 }
   ],
+    "commentaire": [
+    { "Checksum": 1 },
+    { "fiabilite_donnees_pourc": 70 }
+  ],
   "profile": {
     "name": "typicode"
   }
