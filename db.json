@@ -12,19 +12,3 @@
     "name": "typicode"
   }
 }
-{
-  "posts": [
-    { "etat_circulation_10km": "accident" },
-    { "etat_circulation_20km": "circulation fluide" },
-    { "etat_circulation_50km": "bouchon" },
-    { "voie_gauche": "OK", "longeur_vehicule_gauche_m": 0 },
-    { "voie_droite": "NOK", "longeur_vehicule_droite_m": 40 }
-  ],
-  "comments": [
-    { "cheksum_CAN": "OK" },
-    { "fiabilite_donnees_pourc": 70 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
