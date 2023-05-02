@@ -1,16 +1,14 @@
 {
-  "etat_circulation": [
-    { "10km": "accident"},
-    { "20km": "circulation fluide" },
-    { "50km": "bouchon" }
+  "posts": [
+    { "etat_circulation_10km": "accident"},
+    { "etat_circulation_20km": "circulation fluide" },
+    { "etat_circulation_50km": "bouchon" },
+    { "voie_gauche": "OK", "longeur_vehicule_gauche_m": 0},
+    { "voie_droite": "NOK", "longeur_vehicule_droite_m": 40},
   ],
-  "voie_gauche": [
-    { "presence_vehicule": "OK"  },
-    { "longeur_vehicule_m": 0 }
-  ],
-   "voie_droite": [
-    { "presence_vehicule": "NOK"  },
-    { "longeur_vehicule_m": 40 }
+  "comments": [
+    { "cheksum_CAN": "OK"  },
+    { "fiabilite_donnees_pourc": 70 }
   ],
   "profile": {
     "name": "typicode"
